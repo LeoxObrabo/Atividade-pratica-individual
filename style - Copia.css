@@ -1,0 +1,88 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image: url('./img/fundo.png');
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-image: fixed;
+}
+
+
+
+#cabecario{
+    text-align: center;
+    background-color: lightseagreen;
+    padding: 10px;
+    margin-bottom: 50px;
+    
+    
+}
+
+  #texto{
+      text-align: center;
+      margin-bottom: 50px;
+      display: inline-block;
+      vertical-align: top   ;
+  }
+  .linguagens {
+    border: 2px solid lightseagreen;
+    text-align: center;
+      margin-bottom: 50px;
+      display: inline-block;
+      vertical-align: top   ; 
+      margin-bottom: 50px;
+      background: fixed;
+      background-color: lightgray;
+      margin-left: 70px;
+      width: 300px;
+      padding: 20px;
+      border-radius: 20px;
+      color: black;
+    
+}
+ 
+    
+
+h3 {
+    color: black;
+    width: 35%;
+    margin: auto;
+    text-align: center;
+}
+
+#js{
+    background-color: yellow;
+    color: black;
+}
+#python{
+    background-color: lightblue;
+    color: black;
+}
+
+#Csharp{
+    background-color: lightgreen;
+    color: black;
+}
+
+#java{
+    background-color: orange;
+    color: black;
+}
+
+#cpp{
+    background-color: silver;
+    color: black;
+}
+
+#assembly{
+    background-color: lightsalmon;
+    color: black;
+}
+
+footer{
+    background-color: rgb(44, 59, 59);
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
